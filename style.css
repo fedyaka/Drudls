@@ -15,7 +15,14 @@ h1{
 p{
 	font-size: 2vw;
 }
-
+@media screen and (min-width: 2500px){
+	p{
+		font-size: 50px;
+	}
+	h1{
+		font-size: 150px;
+	}
+}
 
 
 
