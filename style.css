@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "Pacifico";
+}
+a{
+	text-decoration: none;
+}
+h1{
+	font-size: 100px;
+	text-align: center;
+}
+
+
+
+
+
+body{
+	background-image: url(image/паттерн.png);
+}
+.body{
+	width: 100%;
+	max-width: 2000px;
+	margin: 0 auto;
+}
+
+
+
+
+header{
+	width: 100%;
+	margin: 0 0 5% 0;
+}
+.logo{
+	width: 100%;
+	text-align: center;
+}
+.logo img{
+	width: 100%;
+}
+
+
+
+
+main{
+
+}
