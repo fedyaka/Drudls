@@ -76,9 +76,22 @@ main div{
 .block_flex div img{
 	width: 100%;
 }
+.block_flex div ul{
+	margin-left: 20px;
+}
+.text_autor{
+	margin: 0 1%;
+}
+.text_rules{
+	margin: 0 1%;
+}
 footer{
 	background: url(image/низ.png);
 	width: 100%;
 	height:20vw;
 	max-height: 350px;
+}
+.footer{
+	width: 96%;
+	margin: 0 2%;
 }
