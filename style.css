@@ -15,7 +15,7 @@ h1{
 p{
 	font-size: 2vw;
 }
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1300px){
 	p{
 		font-size: 3vw;
 	}
